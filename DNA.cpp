@@ -1,6 +1,4 @@
 // David Prater
-// 10/7/2015
-// Homework #5
 // This program compares lines of DNA to determine species
 
 
